@@ -47,11 +47,11 @@ class MultiApp:
 app = MultiApp()
 
 # Add pages to the app
-app.add_app("Home Page", home_page)
-app.add_app("Education Page", education_page)
-app.add_app("Experience Page", experience_page)
-app.add_app("Resume Page", resume_page)
-app.add_app("Contact Page", contact_page)
+app.add_app("Home Page 首页", home_page)
+app.add_app("Education Page 教育经历", education_page)
+app.add_app("Experience Page 实习经历", experience_page)
+app.add_app("Resume Page 简历", resume_page)
+app.add_app("Contact Page 联系方式", contact_page)
 
 # Run the app
 app.run()
