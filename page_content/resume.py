@@ -13,7 +13,7 @@ def resume_page():
         col1, col2 = st.columns(2)
         
         with col1:
-            pdf_file_path = os.path.join("static", "docs", "CHAN_YinSen_Resume_CN.pdf")
+            pdf_file_path = os.path.join("static", "docs", "new_CHAN_YinSen_Resume_CN.pdf")
             if os.path.exists(pdf_file_path):
                 with open(pdf_file_path, "rb") as pdf_file:
                     PDFbyte = pdf_file.read()
@@ -21,12 +21,12 @@ def resume_page():
                 st.download_button(
                     label="下载中文简历",
                     data=PDFbyte,
-                    file_name="CHAN_YinSen_Resume_CN.pdf",
+                    file_name="陈彦宸_简历.pdf",
                     mime='application/pdf'
                 )
             else:
                 st.warning("中文简历PDF文件未找到")
-            with open("static/docs/resume_CHAN, Yin Sen.pdf", "rb") as pdf_file:
+            with open("static/docs/new_resume_CHAN, Yin Sen.pdf", "rb") as pdf_file:
                 PDFbyte = pdf_file.read()
             
             st.download_button(
@@ -90,7 +90,7 @@ def resume_page():
         col1, col2 = st.columns(2)
         
         with col1:
-            with open("static/docs/resume_CHAN, Yin Sen.pdf", "rb") as pdf_file:
+            with open("static/docs/new_resume_CHAN, Yin Sen.pdf", "rb") as pdf_file:
                 PDFbyte = pdf_file.read()
             
             st.download_button(
@@ -101,13 +101,13 @@ def resume_page():
             )
             
         with col2:
-            with open("static/docs/CHAN_YinSen_Resume_CN.pdf", "rb") as pdf_file:
+            with open("static/docs/new_CHAN_YinSen_Resume_CN.pdf", "rb") as pdf_file:
                 PDFbyte = pdf_file.read()
             
             st.download_button(
                 label="Download Chinese Resume",
                 data=PDFbyte,
-                file_name="CHAN_YinSen_Resume_CN.pdf",
+                file_name="陈彦宸_简历.pdf",
                 mime='application/pdf'
             )
             
