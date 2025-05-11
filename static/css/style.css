@@ -1,0 +1,52 @@
+/* Main styles */
+.main {
+    padding: 2rem;
+    background-color: #f8f9fa;
+}
+
+/* Typography */
+h1, h2, h3, h4 {
+    color: #2C3E50;
+}
+
+/* 调整所有 h3 标题的大小 */
+h3 {
+    font-size: 1.3rem !important;
+    margin-top: 1.5rem !important;
+    margin-bottom: 1rem !important;
+}
+
+/* 中文小标题样式 */
+[lang="zh"] h3 {
+    font-size: 1.3rem;
+}
+
+[lang="zh"] h4 {
+    font-size: 1.2rem;
+}
+
+/* Sidebar */
+.sidebar .sidebar-content {
+    background-color: #2C3E50;
+    color: white;
+}
+
+/* Form elements */
+.stRadio > div {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    color: #6c757d;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.8rem;
+    border-top: 1px solid #dee2e6;
+}
