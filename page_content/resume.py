@@ -101,13 +101,13 @@ def resume_page():
             )
             
         with col2:
-            with open("static/docs/陈彦宸_简历.pdf", "rb") as pdf_file:
+            with open("static/docs/CHAN_YinSen_Resume_CN.pdf", "rb") as pdf_file:
                 PDFbyte = pdf_file.read()
             
             st.download_button(
                 label="Download Chinese Resume",
                 data=PDFbyte,
-                file_name="陈彦宸_简历.pdf",
+                file_name="CHAN_YinSen_Resume_CN.pdf",
                 mime='application/pdf'
             )
             
