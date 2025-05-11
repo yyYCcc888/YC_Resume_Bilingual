@@ -118,7 +118,7 @@ def resume_page():
         - **Gender**: Female
 
         ### Education
-        ####Chinese University of Hong Kong | MSc in Marketing (Big Data Marketing) | 08/2024-10/2025
+        #### Chinese University of Hong Kong | MSc in Marketing (Big Data Marketing) | 08/2024-10/2025
         - Main Modules: Social Media Analytics, Machine Learning in Marketing, Customer Analytics, Integrated Marketing Communication, Marketing Analytics, Digital Marketing, Marketing Research
 
         #### Sichuan University | Bachelor of Economics in Finance | 09/2020-06/2024
