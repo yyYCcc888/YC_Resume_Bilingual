@@ -143,11 +143,11 @@ def resume_page():
         - Organized and oversaw the entire process of activities such as the Cantonese Singing Competition (with a participation of 200 people), ensuring smooth progress from the initial phase to final summary
 
         ### Research Projects
-        **Exploration of the Effectiveness of CHAGEE's Olympics Marketing Campaign** | *12/2024*
-        Conducted STP analysis for CHAGEE, utilized Octopus to scrape and preprocess social media data, and conducted sentiment analysis and keyword extraction using Python to evaluate consumer perceptions.
+        #### Exploration of the Effectiveness of CHAGEE's Olympics Marketing Campaign | 12/2024
+        - Conducted STP analysis for CHAGEE, utilized Octopus to scrape and preprocess social media data, and conducted sentiment analysis and keyword extraction using Python to evaluate consumer perceptions.
 
-        **Baidu Netdisk Marketing Analysis** | *11/2024*
-        Designed a survey to gather user feedback on various attributes of Baidu Netdisk, performed descriptive analysis on cleaned data and used R Studio for multiple linear regression to assess the impact of each attribute, and developed a choice model using Sawtooth to design a questionnaire and analyzed the data with R Studio to predict future market share.
+        #### Baidu Netdisk Marketing Analysis | 11/2024
+        - Designed a survey to gather user feedback on various attributes of Baidu Netdisk, performed descriptive analysis on cleaned data and used R Studio for multiple linear regression to assess the impact of each attribute, and developed a choice model using Sawtooth to design a questionnaire and analyzed the data with R Studio to predict future market share.
 
         ### Additional Information
         - **Language Proficiency**: English (IELTS 7.0), Chinese (Native Speaker), Cantonese (Fluent in Listening)
