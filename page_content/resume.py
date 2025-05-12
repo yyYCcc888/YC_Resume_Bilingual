@@ -113,7 +113,7 @@ def resume_page():
             
         st.markdown("""
         ### CHAN, Yin Sen (YC)
-        - **Phone**: +00852 56659168
+        - **Phone**: +852 56659168 (HK) ｜ +86 15980247560 (Mainland China)
         - **Email**: [1378188281@qq.com](mailto:1378188281@qq.com)
         - **Gender**: Female
 
