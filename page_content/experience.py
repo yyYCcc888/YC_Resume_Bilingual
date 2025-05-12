@@ -81,10 +81,10 @@ def experience_page():
         ### Research Projects
 
         **Exploration of the Effectiveness of CHAGEE's Olympics Marketing Campaign** | *December 2024*
-        Conducted STP analysis for CHAGEE, utilized Octopus to scrape and preprocess social media data, and conducted sentiment analysis and keyword extraction using Python to evaluate consumer perceptions.
+        - Conducted STP analysis for CHAGEE, utilized Octopus to scrape and preprocess social media data, and conducted sentiment analysis and keyword extraction using Python to evaluate consumer perceptions.
 
         **Baidu Netdisk Marketing Analysis** | *November 2024*
-        Designed a survey to gather user feedback on various attributes of Baidu Netdisk, performed descriptive analysis on cleaned data and used R Studio for multiple linear regression to assess the impact of each attribute, and developed a choice model using Sawtooth to design a questionnaire and analyzed the data with R Studio to predict future market share.
+        - Designed a survey to gather user feedback on various attributes of Baidu Netdisk, performed descriptive analysis on cleaned data and used R Studio for multiple linear regression to assess the impact of each attribute, and developed a choice model using Sawtooth to design a questionnaire and analyzed the data with R Studio to predict future market share.
         """)
 
         st.markdown("## Additional Information")
