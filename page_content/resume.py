@@ -118,35 +118,35 @@ def resume_page():
         - **Gender**: Female
 
         ### Education
-        #### Chinese University of Hong Kong | MSc in Marketing (Big Data Marketing) | 08/2024-10/2025
+        **Chinese University of Hong Kong | MSc in Marketing (Big Data Marketing)** | *08/2024-10/2025*
         - Main Modules: Social Media Analytics, Machine Learning in Marketing, Customer Analytics, Integrated Marketing Communication, Marketing Analytics, Digital Marketing, Marketing Research
 
-        #### Sichuan University | Bachelor of Economics in Finance | 09/2020-06/2024
+        **Sichuan University | Bachelor of Economics in Finance** | *09/2020-06/2024*
         - Main Modules: International Investment, Security Investment, Financial Risk Management, Financial Statement Analysis, Financial Econometrics, Financial Engineering
 
         ### Professional Experience
-        #### Sales Assistant, Industrial Securities | 08/2023-09/2023
+        **Sales Assistant, Industrial Securities** | *08/2023-09/2023*
         - Sought the IPO information, distribution and underwriting opportunities to reach business cooperation
         - Extracted the financial data of various types of public funds in the market and classified them based on their investment strategies to analyse their performance
         - Communicated with clients and promoted appropriate financial products for their requirements
 
-        #### Industry Research Analyst, China Securities | 04/2022-05/2022
+        **Industry Research Analyst, China Securities** | *04/2022-05/2022*
         - Participated in the industry research for the IDC industry, analysing the industry chain of upstream, midstream and downstream companies, policies about PUE requirements, as well important indicators like data center scale, market share, industry concentration
         - Conducted the fundamental analysis of one leading company in the IDC industry by extracting financial data and marketing data via Wind
         - Calculated the company's financial ratios in Excel, such as ROE, asset liability ratio, etc. to analyse its financial condition and profitability compared with other industry companies
         - Adopted the Dupont analysis method and PE valuation method to value the company, predict its future profit and put forward feasible suggestions of company's business expansion
         - Independently integrated all parts into an industry research report
 
-        #### Member of the Planning Department, HK Culture Association of SCU | 09/2020-07/2024
+        **Member of the Planning Department, HK Culture Association of SCU** | *09/2020-07/2024*
         - Responsible for drafting event planning documents, including event announcements, planning manuscripts, activity records, and meeting minutes, demonstrating strong text processing abilities
         - Developed detailed event execution plans, refined implementation details, and ensured activities proceeded as scheduled. Managed the preparation of event materials and supervision, clarified budgets and processes while effectively handling various on-site emergencies while monitoring progress
         - Organized and oversaw the entire process of activities such as the Cantonese Singing Competition (with a participation of 200 people), ensuring smooth progress from the initial phase to final summary
 
         ### Research Projects
-        #### Exploration of the Effectiveness of CHAGEE's Olympics Marketing Campaign | 12/2024
+        **Exploration of the Effectiveness of CHAGEE's Olympics Marketing Campaign** | *12/2024*
         - Conducted STP analysis for CHAGEE, utilized Octopus to scrape and preprocess social media data, and conducted sentiment analysis and keyword extraction using Python to evaluate consumer perceptions.
 
-        #### Baidu Netdisk Marketing Analysis | 11/2024
+        **Baidu Netdisk Marketing Analysis** | *11/2024*
         - Designed a survey to gather user feedback on various attributes of Baidu Netdisk, performed descriptive analysis on cleaned data and used R Studio for multiple linear regression to assess the impact of each attribute, and developed a choice model using Sawtooth to design a questionnaire and analyzed the data with R Studio to predict future market share.
 
         ### Additional Information
