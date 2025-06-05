@@ -32,7 +32,7 @@ class MultiApp:
         # Load custom CSS
         load_css()
 
-        st.sidebar.markdown("##")
+        st.sidebar.markdown("<div style='font-weight:bold;font-size:18px;padding-bottom:10px;'>菜单｜MENU</div>", unsafe_allow_html=True)
         app = st.sidebar.radio(
             "", self.apps, format_func=lambda app: app["title"]
         )
